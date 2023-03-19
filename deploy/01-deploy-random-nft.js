@@ -22,7 +22,7 @@ module.exports = async function(hre){
 	} else{
 		// use the real one
 		vrfCoordinatorV2Address = "0x6168499c0cFfCaCD319c818142124B7A15E857ab"
-		subscriptionId = 
+		subscriptionId = "3491"     // demo ID, should create our own (video 1:20:00 somewhere)
 	}
 }
 
